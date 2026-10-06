@@ -1,0 +1,108 @@
+SOURCE FILE: Rmarkdown/Pipeline_pdf.Rmd
+FUNCTION START LINE: 1734
+======================================================================
+1729: 
+1730: # 9. Conversion to pseudobulk
+1731: 
+1732: After cell type annotation, we will perform differential expression (DE) analysis (1) **across cell types** and (2) **across conditions within cell types**. We consider that single cells within a donor are not independent of each other so that DE at the single-cell level could well-explain the variation across a cell population but not across donors. To infer which genes might be biologically important, especially across conditions, we use a pseudobulk approach where the raw counts of each individual within each cell type are aggregated. In this way, the donors serve as the biological replicates of the experimental design to study the differences among cell types and ND vs PD vs T2D conditions.
+1733: 
+1734: First we isolate the cell type specific data and then we convert the single-cell signal into pseudobulk using our function **pseudobulk_conversion()**. We show here the example of Beta cells:
+1735: 
+1736: ```{r,pseudobulk1,eval=FALSE}
+1737: # read the single cell data and keep those of the beta cells
+1738: dat<-readRDS("/path/to/final/IntegratedData.rds")
+1739: beta.dat<-subset(dat,subset=Clusters=="Beta")
+1740: 
+1741: # do the conversion to pseudobulk
+1742: beta.pseudo<-pseudobulk_conversion(data=beta.dat)
+1743: 
+1744: # see some of the beta raw counts
+1745: head(beta.pseudo$Counts)
+1746: 
+1747: ##            Islet104 Islet107 Islet123 Islet29 Islet34 Islet37 Islet38 Islet42
+1748: ## AL627309.1       14       12       10       1      10       3       5      10
+1749: ## AL627309.5       17       17       34      10       7      14       8      17
+1750: ## AP006222.2        9       12       30      49      24      39      10      36
+1751: ## LINC01409       311      393      672     227     324     424     149     315
+1752: ## FAM87B            2        0        2       3       3       2       1       1
+1753: ## LINC01128      1006     1392     2622     628    1400    1023     424    1095
+1754: 
+1755: ##            Islet45 Islet47 Islet54 Islet57 Islet59 Islet61 Islet68 Islet73
+1756: ## AL627309.1       4      13      10      23      10      14      10       1
+1757: ## AL627309.5      26      52      11      35      56      23      24       5
+1758: ## AP006222.2      41      37      17      12      21      10      23       3
+1759: ## LINC01409      335     626     176     776     539     290     433     114
+1760: ## FAM87B           2       1       0       0       7       0       0       0
+1761: ## LINC01128     1093    3198     814    2633    2005     839    1193     411
+1762: 
+1763: ##            Islet80 Islet101 Islet118 Islet127 Islet40 Islet50 Islet53 Islet55
+1764: ## AL627309.1      13        7        7       36      11       0       7      13
+1765: ## AL627309.5      22        7       13       59       9       4       4      30
+1766: ## AP006222.2      10       19        8       57      13       4      14      17
+1767: ## LINC01409      273      307      298      630     147     133     145     506
+1768: ## FAM87B           1        1        0        1       0       0       0       0
+1769: ## LINC01128      724     1159      956     1785     783     423     454    2144
+1770: 
+1771: ##            Islet56 Islet58 Islet62 Islet63 Islet70 Islet85 Islet89 Islet119
+1772: ## AL627309.1       2       8       4       4       7      15      19       14
+1773: ## AL627309.5      26      38       9      15      20      35      25       26
+1774: ## AP006222.2       8      60       7      26      14      38      62       84
+1775: ## LINC01409      204     693     269     444     257     457     494      426
+1776: ## FAM87B           0       1       0       0       2       7       6        5
+1777: ## LINC01128      890    1992     714     611     720    1523    1269     1935
+1778: 
+1779: ##            Islet126 Islet128 Islet28 Islet30 Islet31 Islet32 Islet33 Islet39
+1780: ## AL627309.1        8       13       5      28       9      11       0      11
+1781: ## AL627309.5       19        7      17      27       3       1       7       6
+1782: ## AP006222.2       15        3       8      32      27      38      52      14
+1783: ## LINC01409       339      158     227     334     154     215     138     144
+1784: ## FAM87B            1        3       0       0       0       0       1       0
+1785: ## LINC01128       705      487    1029    2054     489     776     523     641
+1786: 
+1787: ##            Islet41 Islet44 Islet48 Islet52 Islet60 Islet71 Islet84 Islet91
+1788: ## AL627309.1       7      10       3       2      11       6       4      13
+1789: ## AL627309.5       2      27      12      10      20       8      14      11
+1790: ## AP006222.2      17      57       2      22      49      20       0      20
+1791: ## LINC01409       99     414     153     149     345     120     167     301
+1792: ## FAM87B           0       0       0       1       2       0       0       0
+1793: ## LINC01128      622    1259    1246     646    1525     647     649    1109
+1794: 
+1795: # see some of the beta meta data
+1796: head(beta.pseudo$Design)
+1797: ##          Chemistry Condition Sex  BMI Race HbA1c Age Ncells
+1798: ## Islet104        V3        ND   M 20.2   AA   5.2  48   1330
+1799: ## Islet107        V3        ND   M 24.2    H   5.2  26    686
+1800: ## Islet123        V3        ND   F 28.3    H   4.6  60    661
+1801: ## Islet29         V2        ND   M 35.6    W   5.1  54    598
+1802: ## Islet34         V2        ND   M 25.3    H   5.3  40    903
+1803: ## Islet37         V2        ND   M 28.5    W   5.2  32   2343
+1804: 
+1805: # save the information
+1806: saveRDS(beta.pseudo,"/path/to/pseudobulk/folder/BetaPseudobulk.rds")
+1807: ```
+1808: 
+1809: In a similar way, we generate the pseudobulk data of the other cell types. Note that in some cases, e.g. Epsilon and Mast, that we detect a relatively small number of cells, the donors and conditions are not well represented. There, we keep only the donors with at least one cell of the specific cell type captured. Below we show the example of Epsilon cells:
+1810: 
+1811: ```{r,pseudobulk2,eval=TRUE}
+1812: # read the pre-saved pseudobulk data of all cells
+1813: all.pseudodat<-readRDS(paste(folder,"AllPseudobulk.rds",sep=""))
+1814: epsMeta<-all.pseudodat$Design[all.pseudodat$Design$CellType=="Epsilon",]
+1815: 
+1816: # number of donors with at least 1 epsilon cell
+1817: nrow(epsMeta)
+1818: 
+1819: # analytic meta data of the epsilon cells
+1820: epsMeta
+1821: 
+1822: # cell number distribution across donors
+1823: quantile(epsMeta$Ncells,seq(0,1,0.1))
+1824: ```
+1825: 
+1826: As shown above, only 41 out 48 donors have at least one Epsilon cell detected. Column *Ncells* indicates that the vast majority of the donors has between 1 to 4 cells.
+1827: 
+1828: ### 9.1. Quality control
+1829: 
+1830: We run a basic quality control analysis on the pseudobulk data. For simplicity we will focus on the Endocrine cells with adequate sample sizes, i.e. Alpha, Beta, Gamma and Delta but the user can generalize to any of the estimated cell types. We use our function **pseudoQC()** to plot: 
+1831: 
+1832: 1. The library sizes and the adjusted library sizes (divided by the number of cells aggregated).
+1833: 
