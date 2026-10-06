@@ -1,0 +1,4 @@
+Metric,Value
+Accuracy,0.7
+Balanced accuracy,0.625
+ROC AUC,0.8333333333333334
