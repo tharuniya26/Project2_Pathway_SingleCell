@@ -1,0 +1,4 @@
+Model,Balanced accuracy,ROC AUC
+Chemistry only,0.5558333333333334,0.5775
+Pathway features,0.7983333333333333,0.8650000000000001
+Gene features,0.87875,0.9311111111111111
