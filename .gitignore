@@ -1,0 +1,31 @@
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Large research data
+data/raw/
+data/processed/
+
+# Large scientific files
+*.h5ad
+*.rds
+*.RData
+*.zip
+*.tar
+*.gz
+
+# Kaggle generated outputs
+kaggle/outputs/
+
+# Saved models
+results/models/
+
+# Operating system files
+Thumbs.db
+.DS_Store
