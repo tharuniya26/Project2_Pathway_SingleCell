@@ -1,45 +1,45 @@
-# Project 2: Pathway-Aware Single-Cell Analysis of Type 2 Diabetes
+# Pathway-Aware Single-Cell Analysis of Type 2 Diabetes
 
-## Project goal
+**Research project by Tharuniya Anpalakan · Human pancreatic islet beta cells · Computational transcriptomics**
 
-This project investigates whether biologically informed pathway-level representations produce more reproducible type 2 diabetes signals across independent single-cell RNA-seq cohorts than conventional gene-level representations.
+## Research question
 
-## Current biological system
+Do KEGG biological pathway representations improve donor-level type 2 diabetes (T2D) classification and transfer across cohorts compared with individual genes and size-matched random gene sets?
 
-Human pancreatic islet beta cells.
+## Study design
 
-## Main dataset
+- Discovery cohort: [GSE221156](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE221156), human pancreatic-islet single-cell RNA-seq; donor-level beta-cell pseudobulk analysis.
+- Independent external cohort: E-MTAB-5061, with cohort-specific preprocessing and aligned biological features.
+- Comparisons: gene-level features, KEGG pathway features and matched random gene groups.
+- Evaluation: internal cross-validation, external ROC AUC, and empirical tests of pathway superiority against random controls.
 
-GSE221156 — human pancreatic islet single-cell RNA sequencing dataset containing non-diabetic, prediabetic, and type 2 diabetic donors.
+## Completed findings
 
-## Main research question
+**The pathway-superiority hypothesis was not supported.** Pathway features retained predictive information, but did not outperform genes or matched random groups in the completed comparison.
 
-Do curated biological pathway representations provide a reproducible advantage over gene-level and matched random gene-group representations when transferring donor-level disease signals across independent cohorts?
+| Feature representation | Internal ROC AUC | External ROC AUC |
+| --- | ---: | ---: |
+| Individual genes | 0.927 | 1.000 |
+| KEGG pathways | 0.872 | 0.833 |
+| Matched random sets (mean) | 0.905 | 0.916 |
 
-## Planned workflow
+Pathway performance ranked at the **2nd percentile** of matched random controls internally and the **16th percentile** externally. Empirical tests for pathway superiority were not significant (**p = 0.980** internal; **p = 0.922** external).
 
-1. Audit dataset and donor metadata.
-2. Obtain beta-cell donor-level pseudobulk expression.
-3. Compare non-diabetic and type 2 diabetic donors.
-4. Build simple gene-level baseline models.
-5. Create pathway-level representations.
-6. Compare real biological pathways against matched random gene sets.
-7. Perform external validation using an independent cohort.
-8. Evaluate both predictive performance and biological signal stability.
+**Interpretation:** Biologically named pathway features do not necessarily confer a predictive advantage. The result is a negative hypothesis test, not a failure of the research. Small cohorts, study differences and feature-construction choices limit generalisation. In particular, the external gene-level ROC AUC of 1.000 must not be interpreted as clinical validation.
+
+## Research outputs and reproducibility
+
+- [Existing IEEE-format manuscript PDF](paper/ieee_pathway_singlecell.pdf)
+- [Editable manuscript source](paper/ieee_pathway_singlecell.tex)
+- [Results tables](results/tables/) and [figures](results/figures/)
+- [Analysis code](src/) and [notebooks](notebooks/)
+
+**Version-consistency notice (5 November 2026):** The summary above reflects the later completed evaluation reported by the project author, including matched-random-set controls. The currently committed PDF and TeX manuscript document an earlier analysis and **must be regenerated and checked against the final local results before being described as the final paper**. The later result files have not been independently verified within this GitHub repository.
 
 ## Tools
 
-- Python 3.12
-- Scanpy
-- AnnData
-- pandas
-- NumPy
-- scikit-learn
-- matplotlib
-- VS Code
-- Git/GitHub
-- Kaggle for additional compute if required
+Python; Scanpy; AnnData; pandas; NumPy; scikit-learn; matplotlib; Git and GitHub.
 
-## Repository note
+## Research status
 
-Large raw and processed datasets are not stored in GitHub. Dataset accessions and reproducible download/preprocessing instructions will be documented instead.
+Completed comparative analysis, with manuscript and repository artifact reconciliation pending. No peer-reviewed publication or clinical deployment is claimed. Raw and processed single-cell datasets are not redistributed in this repository.
