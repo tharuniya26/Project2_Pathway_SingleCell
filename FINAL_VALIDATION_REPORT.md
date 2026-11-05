@@ -6,7 +6,7 @@
 
 ## Overall status
 
-**PASS with documented scientific limitations.** The canonical donor-level pipeline executes on the available real datasets, produces the required three-way representation comparison, performs genuinely independent external validation, and generates machine-readable results and figures. No commit or push was performed.
+**PASS with documented scientific limitations.** The canonical donor-level pipeline executes on the available real datasets, produces the required three-way representation comparison, performs genuinely independent external validation, and generates machine-readable results and figures. The validated release was subsequently published to the existing `main` branch through normal fast-forward pushes.
 
 ## Execution record
 
@@ -105,4 +105,4 @@ The three notebooks are preserved as the historical exploratory record. They con
 
 ## Git safety and publication readiness
 
-Large raw/processed data and caches remain ignored. The release scope is limited to the canonical scripts, environments, validated result artifacts, reports, and final PDF. Pre-existing working-tree edits under `paper/`, the modified historical `results/figures/external_validation_probabilities.png`, `paper/page3.png`, and `src/polish_external_validation_figure.py` are unrelated to the canonical release and are intentionally excluded from staging. No history rewrite or force-push is required.
+Large raw/processed data and caches remain ignored. The release scope is limited to the canonical scripts, environments, validated result artifacts, reports, and final PDF. Pre-existing working-tree edits under `paper/`, the modified historical `results/figures/external_validation_probabilities.png`, `paper/page3.png`, and `src/polish_external_validation_figure.py` are unrelated to the canonical release and were intentionally excluded. The release used normal fast-forward pushes; no history rewrite or force-push was performed.
