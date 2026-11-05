@@ -1,0 +1,55 @@
+GSM,sample_title,tissue,treatment,chemistry,disease_state,sex,bmi,race,hba1c,age,center,cause_of_death,library_id
+GSM6846488,Islet28,Pancreatic islets,None,V2,Type2Diabetic,Male,35.6,Hispanic,7.1,51,Scharp-Lacy,Cerebrovascular/stroke,MS17001
+GSM6846489,Islet29,Pancreatic islets,None,V2,NonDiabetic,Male,35.6,White,5.1,54,Wisconsin,Cerebrovascular/stroke,MS17002
+GSM6846490,Islet30,Pancreatic islets,None,V2,Type2Diabetic,Female,42.8,Hispanic,6.6,52,Scharp-Lacy,Cerebrovascular/stroke,MS17003
+GSM6846491,Islet31,Pancreatic islets,None,V2,Type2Diabetic,Male,27.7,Hispanic,6.5,59,Scharp-Lacy,Cerebrovascular/stroke,MS17004
+GSM6846492,Islet32,Pancreatic islets,None,V2,Type2Diabetic,Male,27.7,White,6.3,35,Scharp-Lacy,Cerebrovascular/stroke,MS17005
+GSM6846493,Islet33,Pancreatic islets,None,V2,Type2Diabetic,Female,38.1,White,8.2,37,UPenn,Cerebrovascular/stroke,MS17006
+GSM6846494,Islet34,Pancreatic islets,None,V2,NonDiabetic,Male,25.3,Hispanic,5.3,40,Scharp-Lacy,Head trauma,MS18001
+GSM6846495,Islet37,Pancreatic islets,None,V2,NonDiabetic,Male,28.5,White,5.2,32,NA,Head trauma - gunshot wound/suicide,MS18002
+GSM6846496,Islet38,Pancreatic islets,None,V2,NonDiabetic,Male,27.3,Hispanic,5.4,21,Scharp-Lacy,Head trauma,MS18003
+GSM6846497,Islet39,Pancreatic islets,None,V2,Type2Diabetic,Female,35.4,White,9.9,50,Southern California IsletCell Resource Center,Cerebrovascular/stroke,MS18004
+GSM6846498,Islet40,Pancreatic islets,None,V2,PreDiabetic,Female,30,Hispanic,6,53,Southern California IsletCell Resource Center,Cerebrovascular/stroke,MS18005
+GSM6846499,Islet41,Pancreatic islets,None,V2,Type2Diabetic,Male,27.4,AfricanAmerican,7.9,61,Scharp-Lacy,NR,MS18006
+GSM6846500,Islet42,Pancreatic islets,None,V3,NonDiabetic,Male,27.2,White,4.7,66,Scharp-Lacy,Cerebrovascular/stroke,MS19001
+GSM6846501,Islet44,Pancreatic islets,None,V3,Type2Diabetic,Male,33.7,AfricanAmerican,8,54,UPenn,Cerebrovascular/stroke,MS19002
+GSM6846502,Islet45,Pancreatic islets,None,V3,NonDiabetic,Female,24.6,White,5.1,50,Miami,Cerebrovascular/stroke,MS19003
+GSM6846503,Islet47,Pancreatic islets,None,V3,NonDiabetic,Female,22.7,White,4.8,53,Scharp-Lacy,Cerebrovascular/stroke,MS19004
+GSM6846504,Islet48,Pancreatic islets,None,V3,Type2Diabetic,Female,33,Hispanic,13.1,37,Scharp-Lacy,Head trauma,MS19005
+GSM6846505,Islet47/48_MS19006,Pancreatic islets,None,V3,NonDiabetic/Type2Diabetic,Female/Female,22.7/33,White/Hispanic,4.8/13.1,53/37,Scharp-Lacy,Cerebrovascular/stroke / Head trauma,MS19006
+GSM6846506,Islet47/48_MS19007,Pancreatic islets,None,V3,NonDiabetic/Type2Diabetic,Female/Female,22.7/33,White/Hispanic,4.8/13.1,53/37,Scharp-Lacy,Cerebrovascular/stroke / Head trauma,MS19007
+GSM6846507,Islet50,Pancreatic islets,None,V3,PreDiabetic,Male,33.3,White,5.7,53,Wisconsin,Cerebrovascular/stroke,MS19008
+GSM6846508,Islet52,Pancreatic islets,None,V3,Type2Diabetic,Female,31.7,White,7.3,34,Wisconsin,Cerebrovascular/stroke,MS19009
+GSM6846509,Islet53,Pancreatic islets,None,V3,PreDiabetic,Male,32,Hispanic,5.8,62,Scharp-Lacy,Cerebrovascular/stroke,MS19010
+GSM6846510,Islet54,Pancreatic islets,None,V3,NonDiabetic,Male,24.2,Hispanic,5.5,37,Southern California IsletCell Resource Center,Head trauma,MS19011
+GSM6846511,Islet55,Pancreatic islets,None,V3,PreDiabetic,Male,32.8,Hispanic,6,50,Scharp-Lacy,Anoxia,MS19012
+GSM6846512,Islet56,Pancreatic islets,None,V3,PreDiabetic,Female,39.8,White,6.4,52,Wisconsin,Anoxia,MS19013
+GSM6846513,Islet57,Pancreatic islets,None,V3,NonDiabetic,Female,33.4,White,5.4,35,Scharp-Lacy,Cerebrovascular/stroke,MS19014
+GSM6846514,Islet58,Pancreatic islets,None,V3,PreDiabetic,Male,26.7,Hispanic,5.7,51,Southern California IsletCell Resource Center,Anoxia,MS19015
+GSM6846515,Islet57/58_MS19016,Pancreatic islets,None,V3,NonDiabetic/PreDiabetic,Female/Male,33.4/26.7,White/Hispanic,5.4/5.7,35/51,Scharp-Lacy/Southern California IsletCell Resource Center,Cerebrovascular/stroke / Anoxia,MS19016
+GSM6846516,Islet57/58_MS19017,Pancreatic islets,None,V3,NonDiabetic/PreDiabetic,Female/Male,33.4/26.7,White/Hispanic,5.4/5.7,35/51,Scharp-Lacy/Southern California IsletCell Resource Center,Cerebrovascular/stroke / Anoxia,MS19017
+GSM6846517,Islet59,Pancreatic islets,None,V3,NonDiabetic,Male,38.8,White,5.4,48,Wisconsin,Cerebrovascular/stroke,MS19018
+GSM6846518,Islet60,Pancreatic islets,None,V3,Type2Diabetic,Male,32.5,White,6.7,58,Scharp-Lacy,Cerebrovascular/stroke,MS19019
+GSM6846519,Islet59/60_MS19020,Pancreatic islets,None,V3,NonDiabetic/Type2Diabetic,Male/Male,38.8/32.5,White/White,5.4/6.7,48/58,Wisconsin/Scharp-Lacy,Cerebrovascular/stroke,MS19020
+GSM6846520,Islet59/60_MS19021,Pancreatic islets,None,V3,NonDiabetic/Type2Diabetic,Male/Male,38.8/32.5,White/White,5.4/6.7,48/58,Wisconsin/Scharp-Lacy,Cerebrovascular/stroke,MS19021
+GSM6846521,Islet61,Pancreatic islets,None,V3,NonDiabetic,Female,40,White,5.5,53,Wisconsin,Cerebrovascular/stroke,MS19022
+GSM6846522,Islet62,Pancreatic islets,None,V3,PreDiabetic,Male,32.6,AfricanAmerican,5.8,45,Scharp-Lacy,Anoxia,MS19023
+GSM6846523,Islet63,Pancreatic islets,None,V3,PreDiabetic,Male,28.4,AfricanAmerican,5.9,49,Scharp-Lacy,Anoxia,MS19026
+GSM6846524,Islet68,Pancreatic islets,None,V3,NonDiabetic,Male,29,White,5.1,52,Wisconsin,Head trauma,MS19032
+GSM6846525,Islet70/71_MS19034,Pancreatic islets,None,V3,PreDiabetic/Type2Diabetic,Female/Male,32.9/31.7,White/White,5.7/5.9,57/63,Southern California IsletCell Resource Center/Scharp-Lacy,Cerebrovascular/stroke,MS19034
+GSM6846526,Islet70/71_MS19035,Pancreatic islets,None,V3,PreDiabetic/Type2Diabetic,Female/Male,32.9/31.7,White/White,5.7/5.9,57/63,Southern California IsletCell Resource Center/Scharp-Lacy,Cerebrovascular/stroke,MS19035
+GSM6846527,Islet73,Pancreatic islets,None,V3,NonDiabetic,Male,28.4,White,5.6,55,Scharp-Lacy,Cerebrovascular/stroke,MS19038
+GSM6846528,Islet80,Pancreatic islets,None,V3,NonDiabetic,Male,25,AfricanAmerican,5.5,42,Miami,Head trauma,MS19040
+GSM6846529,Islet84/85_MS19042,Pancreatic islets,None,V3,Type2Diabetic/PreDiabetic,Male/Male,24.7/26.6,Hispanic/Hispanic,6.1/6.1,52/58,Scharp-Lacy/Miami,NA,MS19042
+GSM6846530,Islet84/85_MS19043,Pancreatic islets,None,V3,Type2Diabetic/PreDiabetic,Male/Male,24.7/26.6,Hispanic/Hispanic,6.1/6.1,52/58,Scharp-Lacy/Miami,NA,MS19043
+GSM6846531,Islet89,Pancreatic islets,None,V3,PreDiabetic,Female,27.1,Hispanic,5.8,30,Miami,Anoxia,MS20001
+GSM6846532,Islet91,Pancreatic islets,None,V3,Type2Diabetic,Male,25.8,White,6.7,53,Scharp-Lacy,Anoxia,MS20003
+GSM6846533,Islet101,Pancreatic islets,None,V3,PreDiabetic,Male,25.7,White,5.9,48,Scharp-Lacy,Anoxia,MS20005
+GSM6846534,Islet104,Pancreatic islets,None,V3,NonDiabetic,Male,20.2,AfricanAmerican,5.2,48,Scharp-Lacy,Cerebrovascular/stroke,MS20017
+GSM6846535,Islet107,Pancreatic islets,None,V3,NonDiabetic,Male,24.2,Hispanic,5.2,26,Scharp-Lacy,Head trauma,MS20033
+GSM6846536,Islet118/119_MS20086,Pancreatic islets,None,V3,PreDiabetic/Type2Diabetic,Male/Female,31.6/28.5,White/AfricanAmerican,5.9/7.6,25/62,Scharp-Lacy/Southern California IsletCell Resource Center,Head trauma/NA,MS20086
+GSM6846537,Islet118/119_MS20087,Pancreatic islets,None,V3,PreDiabetic/Type2Diabetic,Male/Female,31.6/28.5,White/AfricanAmerican,5.9/7.6,25/62,Scharp-Lacy/Southern California IsletCell Resource Center,Head trauma/NA,MS20087
+GSM6846538,Islet123,Pancreatic islets,None,V3,NonDiabetic,Female,28.3,Hispanic,4.6,60,Scharp-Lacy,Head trauma,MS20104
+GSM6846539,Islet126,Pancreatic islets,None,V3,Type2Diabetic,Female,43.9,AfricanAmerican,7,38,UPenn,Anoxia,MS21001
+GSM6846540,Islet127,Pancreatic islets,None,V3,PreDiabetic,Male,29.9,White,5.8,60,UPenn,Anoxia,MS21003
+GSM6846541,Islet128,Pancreatic islets,None,V3,Type2Diabetic,Male,41.3,Hispanic,7.5,60,southern California IsletCell Resource Center,Cerebrovascular/stroke,MS21009

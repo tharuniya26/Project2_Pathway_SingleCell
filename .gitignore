@@ -11,6 +11,8 @@ __pycache__/
 # Large research data
 data/raw/
 data/processed/
+data/cache/
+data/pathways/
 
 # Large scientific files
 *.h5ad
@@ -29,3 +31,10 @@ results/models/
 # Operating system files
 Thumbs.db
 .DS_Store
+
+# Local build and application caches
+.jupyter/
+.codex_compile/
+paper/.codex_build/
+__pycache__/
+*.log

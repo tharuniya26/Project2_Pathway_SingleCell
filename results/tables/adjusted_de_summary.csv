@@ -1,0 +1,9 @@
+Measure,Value
+Donors,34
+ND donors,17
+T2D donors,17
+Genes tested,17408
+FDR < 0.05,927
+FDR < 0.05 and abs(log2FC) >= log2(1.5),520
+Up at FDR < 0.05 and effect threshold,321
+Down at FDR < 0.05 and effect threshold,199

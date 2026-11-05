@@ -1,0 +1,8 @@
+Check,Passed
+donor_alignment,True
+unique_donor_ids,True
+unique_gene_symbols,True
+counts_nonnegative,True
+counts_integer_valued,True
+two_balanced_classes,True
+all_beta_pseudobulks_have_cells,True

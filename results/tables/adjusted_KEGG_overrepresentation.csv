@@ -1,0 +1,583 @@
+Direction,Pathway,Selected_genes,Pathway_genes,Overlap,P_value,Genes,DE_source,FDR
+Down in T2D,Maturity onset diabetes of the young,199,23,4,0.00012374030533441132,FOXA3;HNF1A;HNF4A;SLC2A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.018004214426156847
+Down in T2D,Neuroactive ligand-receptor interaction,199,125,8,9.510955968333012e-05,CCKBR;GABRA2;GLRA1;GRIN2D;KISS1;OPRD1;PRLHR;PTH2R,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.018004214426156847
+Down in T2D,Bile secretion,199,46,4,0.0018577672325763874,ABCB1;FXYD2;SLC2A1;SLC5A1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.13515256616993218
+Down in T2D,Mineral absorption,199,43,4,0.001442878169620069,FXYD2;SLC40A1;SLC5A1;TF,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.13515256616993218
+Down in T2D,Retinol metabolism,199,24,3,0.0024950531349745273,BCO1;RDH10;RDH12,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.14521209245551747
+Down in T2D,Carbohydrate digestion and absorption,199,27,3,0.003516211544340583,FXYD2;SLC2A2;SLC5A1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.17053625990051827
+Down in T2D,Taste transduction,199,31,3,0.0052257314088139575,GABRA2;HCN4;PDE1B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.21724111999498022
+Down in T2D,Ascorbate and aldarate metabolism,199,12,2,0.00795851104180335,ALDH2;UGDH,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.28949083914559687
+Down in T2D,Nicotine addiction,199,14,2,0.010809711944340732,GABRA2;GRIN2D,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.3145626175803153
+Down in T2D,Pentose and glucuronate interconversions,199,14,2,0.010809711944340732,DHDH;UGDH,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.3145626175803153
+Down in T2D,Arginine biosynthesis,199,15,2,0.012379668829360313,ARG2;GLUL,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.32749851175853195
+Down in T2D,Long-term potentiation,199,52,3,0.02158057599625932,GRIN2D;PPP1R1A;RPS6KA2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4830728934547278
+Down in T2D,Tyrosine metabolism,199,20,2,0.021580142948342724,HGD;PNMT,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4830728934547278
+Down in T2D,Butanoate metabolism,199,22,2,0.025849172858807105,ACSM3;BDH1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.5372935215652048
+Down in T2D,Amoebiasis,199,59,3,0.029966333823599204,ARG2;LAMB1;LAMB4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.5813468761778245
+Down in T2D,Insulin secretion,199,64,3,0.03686123578086099,FXYD2;SLC2A1;SLC2A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.6704137257644093
+Down in T2D,Ether lipid metabolism,199,31,2,0.04867928792798641,GAL3ST1;TMEM86B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.786981821502447
+Down in T2D,Tryptophan metabolism,199,31,2,0.04867928792798641,ALDH2;KMO,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.786981821502447
+Down in T2D,ABC transporters,199,35,2,0.06048196962274039,ABCB1;ABCC6,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8772339737656248
+Down in T2D,Arginine and proline metabolism,199,38,2,0.06990539903963676,ALDH2;ARG2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8772339737656248
+Down in T2D,Calcium signaling pathway,199,137,4,0.07234919371262885,CCKBR;FGF22;GRIN2D;PDE1B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8772339737656248
+Down in T2D,Cholesterol metabolism,199,35,2,0.06048196962274039,ANGPTL3;PCSK9,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8772339737656248
+Down in T2D,Ferroptosis,199,36,2,0.06357140663148708,SLC40A1;TF,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8772339737656248
+Down in T2D,HIF-1 signaling pathway,199,83,3,0.06963384454158014,ENO3;SLC2A1;TF,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8772339737656248
+Down in T2D,cAMP signaling pathway,199,142,4,0.08014191040541117,FFAR2;FXYD2;GRIN2D;HCN4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.932851837118986
+Down in T2D,AGE-RAGE signaling pathway in diabetic complications,199,78,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,AMPK signaling pathway,199,106,1,0.7054871912007386,HNF4A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Acute myeloid leukemia,199,52,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Adherens junction,199,62,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Adipocytokine signaling pathway,199,57,1,0.4812911143629058,SLC2A1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Adrenergic signaling in cardiomyocytes,199,107,2,0.3464273606140067,FXYD2;PPP1R1A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,African trypanosomiasis,199,15,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,"Alanine, aspartate and glutamate metabolism",199,30,1,0.2919285876996977,GLUL,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Alcoholism,199,85,1,0.6245595778163959,GRIN2D,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Aldosterone synthesis and secretion,199,67,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Aldosterone-regulated sodium reabsorption,199,25,1,0.24996369603079535,FXYD2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Allograft rejection,199,13,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Amino sugar and nucleotide sugar metabolism,199,41,1,0.3762075892663404,UGDH,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Aminoacyl-tRNA biosynthesis,199,25,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Amphetamine addiction,199,51,1,0.44412640928047703,GRIN2D,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Antigen processing and presentation,199,48,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Apelin signaling pathway,199,105,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Apoptosis,199,120,1,0.7495382394148093,TUBA4A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Arachidonic acid metabolism,199,29,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Arrhythmogenic right ventricular cardiomyopathy,199,52,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Autoimmune thyroid disease,199,14,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Autophagy,199,131,1,0.7794961441961586,BNIP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Axon guidance,199,140,1,0.8013339194963462,RGS3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,B cell receptor signaling pathway,199,59,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Bacterial invasion of epithelial cells,199,73,1,0.5687461847583235,ARHGEF26,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Basal cell carcinoma,199,35,1,0.3315566623144392,BMP2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Basal transcription factors,199,40,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Base excision repair,199,32,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Biosynthesis of unsaturated fatty acids,199,25,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Bladder cancer,199,36,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Breast cancer,199,105,1,0.7020606214538339,FGF22,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,C-type lectin receptor signaling pathway,199,81,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Cardiac muscle contraction,199,59,1,0.4931214494513596,FXYD2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Cell adhesion molecules,199,85,1,0.6245595778163959,CD226,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Cell cycle,199,108,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Cellular senescence,199,137,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Central carbon metabolism in cancer,199,56,2,0.13438758719752666,SLC2A1;SLC2A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Chagas disease,199,71,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Chemical carcinogenesis,199,147,2,0.502772101682514,FGF22;RPS6KA2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Chemokine signaling pathway,199,117,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Choline metabolism in cancer,199,79,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Cholinergic synapse,199,79,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Chronic myeloid leukemia,199,71,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Circadian entrainment,199,67,1,0.537817819633435,GRIN2D,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Circadian rhythm,199,29,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Citrate cycle (TCA cycle),199,29,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Cocaine addiction,199,36,1,0.33921338390538097,GRIN2D,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Collecting duct acid secretion,199,18,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Colorectal cancer,199,73,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Complement and coagulation cascades,199,43,1,0.3904215609782188,F11,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Coronavirus disease,199,169,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Cortisol synthesis and secretion,199,43,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Cushing syndrome,199,107,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Cysteine and methionine metabolism,199,41,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Cytokine-cytokine receptor interaction,199,103,1,0.6950880317481547,BMP2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Cytosolic DNA-sensing pathway,199,35,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,DNA replication,199,36,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Diabetic cardiomyopathy,199,166,1,0.853058207703015,SLC2A1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Dilated cardiomyopathy,199,61,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Dopaminergic synapse,199,106,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Drug metabolism,199,53,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,ECM-receptor interaction,199,54,2,0.1266859089548114,LAMB1;LAMB4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Endocrine and other factor-regulated calcium reabsorption,199,41,1,0.3762075892663404,FXYD2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Endometrial cancer,199,52,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Epithelial cell signaling in Helicobacter pylori infection,199,61,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Epstein-Barr virus infection,199,157,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,ErbB signaling pathway,199,75,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Estrogen signaling pathway,199,98,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Fanconi anemia pathway,199,48,1,0.4245623146574821,FAAP24,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Fat digestion and absorption,199,24,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Fatty acid biosynthesis,199,13,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Fatty acid degradation,199,33,1,0.31597739783826284,ALDH2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Fatty acid elongation,199,24,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Fc epsilon RI signaling pathway,199,53,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Fc gamma R-mediated phagocytosis,199,79,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Fluid shear stress and atherosclerosis,199,107,1,0.708874548093066,NPPC,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Focal adhesion,199,151,2,0.517080091235182,LAMB1;LAMB4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Folate biosynthesis,199,20,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,FoxO signaling pathway,199,110,2,0.35884429344120805,BNIP3;SGK2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Fructose and mannose metabolism,199,26,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,GABAergic synapse,199,53,2,0.12287623404019893,GABRA2;GLUL,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Galactose metabolism,199,22,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Gap junction,199,64,2,0.16613405569679285,TUBA4A;TUBB2B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Gastric acid secretion,199,49,1,0.4311586337463736,CCKBR,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Gastric cancer,199,105,2,0.3381060283686459,ABCB1;FGF22,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glioma,199,63,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glucagon signaling pathway,199,87,2,0.26220143155251835,SLC2A1;SLC2A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glutamatergic synapse,199,79,2,0.22834827877734418,GLUL;GRIN2D,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glutathione metabolism,199,41,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glycerolipid metabolism,199,48,1,0.4245623146574821,ALDH2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glycerophospholipid metabolism,199,78,1,0.5929403284795866,PLA1A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,"Glycine, serine and threonine metabolism",199,31,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glycolysis / Gluconeogenesis,199,47,2,0.10066820512098604,ALDH2;ENO3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glycosaminoglycan biosynthesis,199,43,1,0.3904215609782188,HS6ST2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glycosaminoglycan degradation,199,16,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glycosphingolipid biosynthesis,199,40,1,0.3689774250321976,FUT7,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,199,25,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Glyoxylate and dicarboxylate metabolism,199,26,1,0.2585500864403836,GLUL,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,GnRH secretion,199,45,1,0.40431323831688915,KISS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,GnRH signaling pathway,199,72,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Graft-versus-host disease,199,13,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,"Growth hormone synthesis, secretion and action",199,100,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Hedgehog signaling pathway,199,38,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Hematopoietic cell lineage,199,35,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Hepatitis B,199,129,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Hepatitis C,199,119,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Hepatocellular carcinoma,199,131,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Hippo signaling pathway,199,114,2,0.37526474329389703,BMP2;LLGL2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Histidine metabolism,199,12,1,0.12891200208806977,ALDH2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Homologous recombination,199,37,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Human T-cell leukemia virus 1 infection,199,174,1,0.8660926790450862,SLC2A1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Human cytomegalovirus infection,199,169,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Human immunodeficiency virus 1 infection,199,164,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Hypertrophic cardiomyopathy,199,57,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,IL-17 signaling pathway,199,64,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Inflammatory bowel disease,199,25,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Inflammatory mediator regulation of TRP channels,199,68,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Influenza A,199,119,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Inositol phosphate metabolism,199,67,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Insulin resistance,199,97,3,0.099818042677492,RPS6KA2;SLC2A1;SLC2A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Insulin signaling pathway,199,121,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Intestinal immune network for IgA production,199,20,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,JAK-STAT signaling pathway,199,89,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Kaposi sarcoma-associated herpesvirus infection,199,147,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Legionellosis,199,45,1,0.40431323831688915,BNIP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Leishmaniasis,199,44,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Leukocyte transendothelial migration,199,80,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Linoleic acid metabolism,199,10,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Lipid and atherosclerosis,199,157,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Long-term depression,199,45,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Longevity regulating pathway,199,93,1,0.6577134928186528,SESN2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Lysine degradation,199,57,1,0.4812911143629058,ALDH2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Lysosome,199,119,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Malaria,199,20,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Mannose type O-glycan biosynthesis,199,22,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Measles,199,100,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Melanogenesis,199,65,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Melanoma,199,55,1,0.46918608384474836,FGF22,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Metabolism of xenobiotics by cytochrome P450,199,26,1,0.2585500864403836,DHDH,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,MicroRNAs in cancer,199,129,1,0.7743278546671716,ABCB1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Mismatch repair,199,22,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Mitophagy,199,66,1,0.5324526995323478,BNIP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Morphine addiction,199,55,2,0.13052340169265064,GABRA2;PDE1B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Mucin type O-glycan biosynthesis,199,24,1,0.24127837601392746,GCNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,N-Glycan biosynthesis,199,46,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,NF-kappa B signaling pathway,199,76,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,NOD-like receptor signaling pathway,199,122,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Natural killer cell mediated cytotoxicity,199,68,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Necroptosis,199,97,1,0.673181104830897,GLUL,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Neurotrophin signaling pathway,199,105,2,0.3381060283686459,ARHGDIB;RPS6KA2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Neutrophil extracellular trap formation,199,71,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Nicotinate and nicotinamide metabolism,199,29,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Non-alcoholic fatty liver disease,199,135,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Non-homologous end-joining,199,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Non-small cell lung cancer,199,65,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Notch signaling pathway,199,50,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Nucleotide excision repair,199,45,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Olfactory transduction,199,31,1,0.300036897692088,PDE1B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,One carbon pool by folate,199,18,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Oocyte meiosis,199,101,1,0.687953103578882,RPS6KA2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Osteoclast differentiation,199,88,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Other glycan degradation,199,16,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Other types of O-glycan biosynthesis,199,37,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Ovarian steroidogenesis,199,27,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Oxidative phosphorylation,199,109,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Oxytocin signaling pathway,199,110,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,PD-L1 expression and PD-1 checkpoint pathway in cancer,199,71,1,0.5586726296015426,RASGRP1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,PPAR signaling pathway,199,52,1,0.450499563889752,AQP7,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Pancreatic cancer,199,68,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Pancreatic secretion,199,65,1,0.527025616424959,FXYD2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Pantothenate and CoA biosynthesis,199,14,1,0.14872804557075783,ALDH2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,"Parathyroid hormone synthesis, secretion and action",199,81,1,0.6068034835591771,SLC9A3R1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Pathogenic Escherichia coli infection,199,158,3,0.27047736618532425,SLC9A3R1;TUBA4A;TUBB2B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Pentose phosphate pathway,199,25,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Peroxisome,199,75,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Pertussis,199,50,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Phagosome,199,103,2,0.32975333757278363,TUBA4A;TUBB2B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Phosphatidylinositol signaling system,199,83,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Phospholipase D signaling pathway,199,107,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Phototransduction,199,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Platelet activation,199,91,1,0.6497087080612003,RASGRP1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Porphyrin and chlorophyll metabolism,199,21,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Primary bile acid biosynthesis,199,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Primary immunodeficiency,199,17,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Progesterone-mediated oocyte maturation,199,80,1,0.6022354348247665,RPS6KA2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Prolactin signaling pathway,199,62,1,0.5103654285868103,SLC2A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Propanoate metabolism,199,31,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Prostate cancer,199,78,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Proteasome,199,43,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Protein digestion and absorption,199,51,2,0.11534494927625562,FXYD2;SLC16A10,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Protein export,199,23,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Protein processing in endoplasmic reticulum,199,159,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Proteoglycans in cancer,199,152,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Proximal tubule bicarbonate reclamation,199,15,1,0.15846721533800046,FXYD2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Purine metabolism,199,103,2,0.32975333757278363,PDE1B;PDE9A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Pyrimidine metabolism,199,45,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Pyruvate metabolism,199,36,1,0.33921338390538097,ALDH2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,RIG-I-like receptor signaling pathway,199,47,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,RNA degradation,199,74,1,0.5736968342670116,ENO3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,RNA polymerase,199,29,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,RNA transport,199,156,1,0.8349767518205891,NCBP2L,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Rap1 signaling pathway,199,149,1,0.8210187610284981,FGF22,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Ras signaling pathway,199,164,3,0.28909764722142045,FGF22;PLA1A;RASGRP1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Regulation of actin cytoskeleton,199,162,2,0.5550011227263163,FGF22;SPATA13,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Regulation of lipolysis in adipocytes,199,41,1,0.3762075892663404,AQP7,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Relaxin signaling pathway,199,100,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Renal cell carcinoma,199,66,1,0.5324526995323478,SLC2A1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Renin secretion,199,45,1,0.40431323831688915,PDE1B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Renin-angiotensin system,199,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Retrograde endocannabinoid signaling,199,103,1,0.6950880317481547,GABRA2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Rheumatoid arthritis,199,50,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Ribosome,199,129,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Ribosome biogenesis in eukaryotes,199,74,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,SNARE interactions in vesicular transport,199,33,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Salivary secretion,199,54,2,0.1266859089548114,CST1;FXYD2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Selenocompound metabolism,199,15,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Serotonergic synapse,199,66,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Signaling pathways regulating pluripotency of stem cells,199,95,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Small cell lung cancer,199,79,2,0.22834827877734418,LAMB1;LAMB4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Sphingolipid metabolism,199,43,1,0.3904215609782188,GAL3ST1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Sphingolipid signaling pathway,199,103,1,0.6950880317481547,OPRD1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Spinocerebellar ataxia,199,122,1,0.755271285861822,GRIN2D,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Spliceosome,199,132,1,0.7820359524559819,NCBP2L,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Staphylococcus aureus infection,199,24,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Starch and sucrose metabolism,199,21,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Steroid biosynthesis,199,18,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Steroid hormone biosynthesis,199,19,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Synaptic vesicle cycle,199,58,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Systemic lupus erythematosus,199,23,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,T cell receptor signaling pathway,199,76,1,0.5834291275777496,RASGRP1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,TGF-beta signaling pathway,199,66,1,0.5324526995323478,BMP2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,TNF signaling pathway,199,92,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Terpenoid backbone biosynthesis,199,20,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Th1 and Th2 cell differentiation,199,57,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Th17 cell differentiation,199,69,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Thermogenesis,199,200,1,0.9010158098383199,RPS6KA2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Thiamine metabolism,199,10,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Thyroid cancer,199,33,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Thyroid hormone signaling pathway,199,102,3,0.11167972915022792,FXYD2;SLC16A10;SLC2A1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Thyroid hormone synthesis,199,52,2,0.11909552420745549,FXYD2;TTR,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Tight junction,199,137,3,0.20682510811322824,LLGL2;SLC9A3R1;TUBA4A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Toll-like receptor signaling pathway,199,66,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Toxoplasmosis,199,84,2,0.24948615902974206,LAMB1;LAMB4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Transcriptional misregulation in cancer,199,121,1,0.7524212733317721,MYCN,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Tuberculosis,199,116,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Type I diabetes mellitus,199,20,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Type II diabetes mellitus,199,36,1,0.33921338390538097,SLC2A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Ubiquitin mediated proteolysis,199,134,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,VEGF signaling pathway,199,51,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,"Valine, leucine and isoleucine degradation",199,46,1,0.4111404954484295,ALDH2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Various types of N-glycan biosynthesis,199,38,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Vascular smooth muscle contraction,199,86,1,0.6288724938248552,NPPC,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Vasopressin-regulated water reabsorption,199,39,1,0.3616638844137587,ARHGDIB,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Vibrio cholerae infection,199,45,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Viral carcinogenesis,199,153,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Viral myocarditis,199,36,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Viral protein interaction with cytokine and cytokine receptor,199,28,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Vitamin digestion and absorption,199,15,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Wnt signaling pathway,199,111,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,Yersinia infection,199,114,1,0.7315249623285021,RPS6KA2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,alpha-Linolenic acid metabolism,199,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,beta-Alanine metabolism,199,21,1,0.2146174333903402,ALDH2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,cGMP-PKG signaling pathway,199,119,3,0.1555923020033821,FXYD2;NPPC;OPRD1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,mRNA surveillance pathway,199,87,1,0.633136110828022,NCBP2L,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,mTOR signaling pathway,199,131,2,0.4429240371084867,RPS6KA2;SESN2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Down in T2D,p53 signaling pathway,199,65,2,0.17019134103603184,CD82;SESN2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Neuroactive ligand-receptor interaction,321,125,17,1.4284276378621761e-10,ADRB1;CALCB;CHRNA3;CHRNA5;GAL;GHSR;GLRA3;GRIN1;GRIN2A;LPAR6;NPB;NPW;P2RX5;P2RY1;PTGER4;SSTR1;TSHR,beta_T2D_vs_ND_pydeseq2_adjusted.csv,4.1567244261789326e-08
+Up in T2D,ECM-receptor interaction,321,54,9,5.65162936684315e-07,COL6A1;COL6A2;FRAS1;ITGA1;ITGB8;LAMB2;NPNT;SV2B;VTN,beta_T2D_vs_ND_pydeseq2_adjusted.csv,8.223120728756783e-05
+Up in T2D,Calcium signaling pathway,321,137,9,0.0010023498784306273,ADRB1;CAMK4;GRIN1;GRIN2A;HGF;NTRK2;P2RX5;PLCD3;RYR2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.09386379816230112
+Up in T2D,cAMP signaling pathway,321,142,9,0.0012902240297223522,ADRB1;CAMK4;GHSR;GRIN1;GRIN2A;PDE4B;RYR2;SSTR1;TSHR,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.09386379816230112
+Up in T2D,Circadian entrainment,321,67,5,0.007853445160143578,GNB4;GRIN1;GRIN2A;GUCY1A2;RYR2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.45259675672635574
+Up in T2D,Renin secretion,321,45,4,0.009331891891265067,ADRB1;GUCY1A2;KCNJ2;PTGER4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.45259675672635574
+Up in T2D,Alcoholism,321,85,5,0.020447892349208543,CAMK4;GNB4;GRIN1;GRIN2A;NTRK2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4846939251913435
+Up in T2D,Autoimmune thyroid disease,321,14,2,0.02664983781120789,HLA-F;TSHR,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4846939251913435
+Up in T2D,Cholinergic synapse,321,79,5,0.015346806066293411,ACHE;CAMK4;CHRNA3;GNB4;KCNJ2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4846939251913435
+Up in T2D,Cytokine-cytokine receptor interaction,321,103,6,0.01205144967377228,BMP8B;EDA2R;TNFRSF10B;TNFRSF10C;TNFRSF10D;TNFRSF11B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4846939251913435
+Up in T2D,Dilated cardiomyopathy,321,61,4,0.026027956157124433,ADRB1;ITGA1;ITGB8;RYR2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4846939251913435
+Up in T2D,Focal adhesion,321,151,7,0.02205566011025684,COL6A1;COL6A2;HGF;ITGA1;ITGB8;LAMB2;VTN,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4846939251913435
+Up in T2D,Morphine addiction,321,55,4,0.018521455597892235,ARRB1;GNB4;PDE4B;PDE7B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4846939251913435
+Up in T2D,Nicotine addiction,321,14,2,0.02664983781120789,GRIN1;GRIN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4846939251913435
+Up in T2D,Taste transduction,321,31,3,0.01906726168650154,P2RY1;SCN3A;SCN9A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4846939251913435
+Up in T2D,Viral protein interaction with cytokine and cytokine receptor,321,28,3,0.01446928369777357,TNFRSF10B;TNFRSF10C;TNFRSF10D,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.4846939251913435
+Up in T2D,Other types of O-glycan biosynthesis,321,37,3,0.030412208628360544,COLGALT2;GALNT10;ST6GAL1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.5205854535795834
+Up in T2D,MicroRNAs in cancer,321,129,6,0.032419214019563894,CDKN1A;CDKN2A;IRS1;SOCS1;VIM;WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.5241106266496163
+Up in T2D,Hepatocellular carcinoma,321,131,6,0.03456960538111895,CDKN1A;CDKN2A;DPF1;HGF;SMARCD3;WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.5294607982055587
+Up in T2D,Regulation of lipolysis in adipocytes,321,41,3,0.03955619236962766,ADRB1;IRS1;TSHR,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.5755425989780824
+Up in T2D,Complement and coagulation cascades,321,43,3,0.044592176531542176,F12;THBD;VTN,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.5898328804853988
+Up in T2D,Glycosaminoglycan biosynthesis,321,43,3,0.044592176531542176,CHST3;CSGALNACT1;XYLT1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.5898328804853988
+Up in T2D,Oxytocin signaling pathway,321,110,5,0.052972145294444335,CAMK4;CDKN1A;GUCY1A2;KCNJ2;RYR2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.6422872616951376
+Up in T2D,Type I diabetes mellitus,321,20,2,0.05177125558447738,GAD1;HLA-F,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.6422872616951376
+Up in T2D,Amphetamine addiction,321,51,3,0.06769242418039294,CAMK4;GRIN1;GRIN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.7002271554592648
+Up in T2D,Arrhythmogenic right ventricular cardiomyopathy,321,52,3,0.07089747379023972,ITGA1;ITGB8;RYR2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.7002271554592648
+Up in T2D,Cell adhesion molecules,321,85,4,0.07212017180474664,CD8A;HLA-F;ITGB8;NEGR1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.7002271554592648
+Up in T2D,Long-term potentiation,321,52,3,0.07089747379023972,CAMK4;GRIN1;GRIN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.7002271554592648
+Up in T2D,"Parathyroid hormone synthesis, secretion and action",321,81,4,0.06265357553858326,ARRB1;CDKN1A;CYP27B1;PDE4B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.7002271554592648
+Up in T2D,Transcriptional misregulation in cancer,321,121,5,0.07340143639452072,CDKN1A;FEV;NUPR1;PAX5;ZBTB16,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.7002271554592648
+Up in T2D,Vascular smooth muscle contraction,321,86,4,0.07459464542693199,CALCB;GUCY1A2;PRKCQ;RAMP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.7002271554592648
+Up in T2D,Melanoma,321,55,3,0.08091090545613071,CDKN1A;CDKN2A;HGF,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.7134870753858799
+Up in T2D,Osteoclast differentiation,321,88,4,0.07967081160843964,CAMK4;CYBA;SOCS1;TNFRSF11B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.7134870753858799
+Up in T2D,Hypertrophic cardiomyopathy,321,57,3,0.08790694300042688,ITGA1;ITGB8;RYR2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.7523800121507124
+Up in T2D,Basal cell carcinoma,321,35,2,0.1357982034335118,CDKN1A;WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,Bladder cancer,321,36,2,0.14212030046217747,CDKN1A;CDKN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,Cocaine addiction,321,36,2,0.14212030046217747,GRIN1;GRIN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,Cushing syndrome,321,107,4,0.1357596867633012,CDKN1A;CDKN2A;CDKN2B;WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,Gastric cancer,321,105,4,0.1292358337934467,CDKN1A;CDKN2B;HGF;WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,Glioma,321,63,3,0.11032642913697627,CAMK4;CDKN1A;CDKN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,"Growth hormone synthesis, secretion and action",321,100,4,0.11352869265306637,GHSR;IRS1;SOCS1;SSTR1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,Hematopoietic cell lineage,321,35,2,0.1357982034335118,CD8A;ITGA1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,Non-small cell lung cancer,321,65,3,0.11824303435133177,CDKN1A;CDKN2A;HGF,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,Purine metabolism,321,103,4,0.12284752425014443,AK5;GUCY1A2;PDE4B;PDE7B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,Type II diabetes mellitus,321,36,2,0.14212030046217747,IRS1;SOCS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,p53 signaling pathway,321,65,3,0.11824303435133177,CDKN1A;CDKN2A;TNFRSF10B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.8990653790107314
+Up in T2D,Proteoglycans in cancer,321,152,5,0.15018531512383443,CDKN1A;HGF;MSN;VTN;WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.9104984729382463
+Up in T2D,Wnt signaling pathway,321,111,4,0.14919602994433873,NOTUM;PRICKLE2;VANGL1;WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.9104984729382463
+Up in T2D,Hedgehog signaling pathway,321,38,2,0.15494377487254646,ARRB1;BOC,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.9201762956716534
+Up in T2D,Glutamatergic synapse,321,79,3,0.17879300140217574,GNB4;GRIN1;GRIN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.9816747812836443
+Up in T2D,Glycerophospholipid metabolism,321,78,3,0.17421286866749428,ACHE;DGKB;PLPP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.9816747812836443
+Up in T2D,Small cell lung cancer,321,79,3,0.17879300140217574,CDKN1A;CDKN2B;LAMB2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.9816747812836443
+Up in T2D,Thiamine metabolism,321,10,1,0.16986578182297113,AK5,beta_T2D_vs_ND_pydeseq2_adjusted.csv,0.9816747812836443
+Up in T2D,ABC transporters,321,35,1,0.4790288024304183,ABCC9,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,AGE-RAGE signaling pathway in diabetic complications,321,78,2,0.4230332457584887,PLCD3;THBD,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,AMPK signaling pathway,321,106,1,0.8617780834800071,IRS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Acute myeloid leukemia,321,52,1,0.6206341389499498,ZBTB16,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Adherens junction,321,62,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Adipocytokine signaling pathway,321,57,2,0.2832050856236959,IRS1;PRKCQ,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Adrenergic signaling in cardiomyocytes,321,107,2,0.5899517667819795,ADRB1;RYR2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,African trypanosomiasis,321,15,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,"Alanine, aspartate and glutamate metabolism",321,30,1,0.4281210190193572,GAD1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Aldosterone synthesis and secretion,321,67,1,0.7133208184609579,CAMK4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Aldosterone-regulated sodium reabsorption,321,25,1,0.3722556701493447,IRS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Allograft rejection,321,13,1,0.21497468141348117,HLA-F,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Amino sugar and nucleotide sugar metabolism,321,41,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Aminoacyl-tRNA biosynthesis,321,25,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Amoebiasis,321,59,1,0.6671137804218079,LAMB2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Antigen processing and presentation,321,48,2,0.2216016814733517,CD8A;HLA-F,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Apelin signaling pathway,321,105,3,0.30581678263782747,CAMK4;GNB4;RYR2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Apoptosis,321,120,1,0.8936662649576395,TNFRSF10B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Arachidonic acid metabolism,321,29,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Arginine and proline metabolism,321,38,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Arginine biosynthesis,321,15,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Ascorbate and aldarate metabolism,321,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Autophagy,321,131,2,0.6989281445621456,IRS1;PRKCQ,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Axon guidance,321,140,3,0.478877077246017,BOC;EFNB3;UNC5C,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,B cell receptor signaling pathway,321,59,1,0.6671137804218079,INPP5D,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Bacterial invasion of epithelial cells,321,73,1,0.7437277544549763,SEPTIN9,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Basal transcription factors,321,40,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Base excision repair,321,32,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Bile secretion,321,46,2,0.2080291988443177,SLC4A4;SLCO1A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Biosynthesis of unsaturated fatty acids,321,25,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Breast cancer,321,105,2,0.5796604764737056,CDKN1A;WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Butanoate metabolism,321,22,1,0.3361585648332251,GAD1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,C-type lectin receptor signaling pathway,321,81,1,0.7793271034892194,BCL3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Carbohydrate digestion and absorption,321,27,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Cardiac muscle contraction,321,59,1,0.6671137804218079,RYR2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Cell cycle,321,108,3,0.3209692489003402,CDKN1A;CDKN2A;CDKN2B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Cellular senescence,321,137,4,0.2466685430620213,CDKN1A;CDKN2A;CDKN2B;HLA-F,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Central carbon metabolism in cancer,321,56,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Chagas disease,321,71,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Chemical carcinogenesis,321,147,3,0.5113209005501561,ADRB1;ARRB1;CHRNA3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Chemokine signaling pathway,321,117,2,0.6385906073816738,ARRB1;GNB4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Cholesterol metabolism,321,35,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Choline metabolism in cancer,321,79,2,0.42937714820930245,DGKB;PLPP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Chronic myeloid leukemia,321,71,2,0.37766768678933527,CDKN1A;CDKN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Circadian rhythm,321,29,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Citrate cycle (TCA cycle),321,29,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Collecting duct acid secretion,321,18,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Colorectal cancer,321,73,1,0.7437277544549763,CDKN1A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Coronavirus disease,321,169,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Cortisol synthesis and secretion,321,43,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Cysteine and methionine metabolism,321,41,1,0.5341890653047789,CDO1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Cytosolic DNA-sensing pathway,321,35,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,DNA replication,321,36,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Diabetic cardiomyopathy,321,166,3,0.5936121970387633,CYBA;IRS1;RYR2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Dopaminergic synapse,321,106,3,0.31086539492087945,ARRB1;GNB4;GRIN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Drug metabolism,321,53,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Endocrine and other factor-regulated calcium reabsorption,321,41,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Endometrial cancer,321,52,1,0.6206341389499498,CDKN1A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Epithelial cell signaling in Helicobacter pylori infection,321,61,1,0.6793186271475409,NOD1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Epstein-Barr virus infection,321,157,3,0.5557506073065708,CDKN1A;HLA-F;VIM,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,ErbB signaling pathway,321,75,2,0.4037884752855082,CDKN1A;NRG1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Estrogen signaling pathway,321,98,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Ether lipid metabolism,321,31,1,0.43868455641691684,PLPP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Fanconi anemia pathway,321,48,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Fat digestion and absorption,321,24,1,0.3604461448676205,PLPP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Fatty acid biosynthesis,321,13,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Fatty acid degradation,321,33,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Fatty acid elongation,321,24,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Fc epsilon RI signaling pathway,321,53,1,0.6276505275992393,INPP5D,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Fc gamma R-mediated phagocytosis,321,79,2,0.42937714820930245,INPP5D;PLPP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Ferroptosis,321,36,1,0.48865475962951105,SLC39A8,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Fluid shear stress and atherosclerosis,321,107,2,0.5899517667819795,CYBA;THBD,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Folate biosynthesis,321,20,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,FoxO signaling pathway,321,110,3,0.33107594046784433,CDKN1A;CDKN2B;IRS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Fructose and mannose metabolism,321,26,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,GABAergic synapse,321,53,2,0.2557819291869033,GAD1;GNB4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Galactose metabolism,321,22,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Gap junction,321,64,2,0.33089614150107366,ADRB1;GUCY1A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Gastric acid secretion,321,49,1,0.5987842914892834,KCNJ2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Glucagon signaling pathway,321,87,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Glutathione metabolism,321,41,1,0.5341890653047789,OPLAH,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Glycerolipid metabolism,321,48,2,0.2216016814733517,DGKB;PLPP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,"Glycine, serine and threonine metabolism",321,31,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Glycolysis / Gluconeogenesis,321,47,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Glycosaminoglycan degradation,321,16,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Glycosphingolipid biosynthesis,321,40,1,0.5254177090522321,ST8SIA1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,321,25,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Glyoxylate and dicarboxylate metabolism,321,26,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,GnRH secretion,321,45,2,0.20127623712475792,ARRB1;HCN1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,GnRH signaling pathway,321,72,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Graft-versus-host disease,321,13,1,0.21497468141348117,HLA-F,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,HIF-1 signaling pathway,321,83,1,0.7874279694507869,CDKN1A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Hepatitis B,321,129,2,0.690848555900748,CDKN1A;STAT4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Hepatitis C,321,119,1,0.8916546472685425,CDKN1A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Hippo signaling pathway,321,114,2,0.6244908799582065,BMP8B;WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Histidine metabolism,321,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Homologous recombination,321,37,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Human T-cell leukemia virus 1 infection,321,174,4,0.40001855913242806,CDKN1A;CDKN2A;CDKN2B;HLA-F,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Human cytomegalovirus infection,321,169,5,0.20243005395519276,CDKN1A;CDKN2A;GNB4;HLA-F;PTGER4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Human immunodeficiency virus 1 infection,321,164,3,0.5853804894708552,APOBEC3G;GNB4;HLA-F,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,IL-17 signaling pathway,321,64,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Inflammatory bowel disease,321,25,1,0.3722556701493447,STAT4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Inflammatory mediator regulation of TRP channels,321,68,2,0.35776986076762,PRKCQ;PTGER4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Influenza A,321,119,1,0.8916546472685425,TNFRSF10B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Inositol phosphate metabolism,321,67,2,0.35108539414040246,INPP5D;PLCD3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Insulin resistance,321,97,2,0.536625796945052,IRS1;PRKCQ,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Insulin secretion,321,64,1,0.6967945036444387,RYR2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Insulin signaling pathway,321,121,2,0.656740335189492,IRS1;SOCS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Intestinal immune network for IgA production,321,20,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,JAK-STAT signaling pathway,321,89,3,0.22618671439827528,CDKN1A;SOCS1;STAT4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Kaposi sarcoma-associated herpesvirus infection,321,147,3,0.5113209005501561,CDKN1A;GNB4;HLA-F,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Legionellosis,321,45,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Leishmaniasis,321,44,1,0.5595452420425022,CYBA,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Leukocyte transendothelial migration,321,80,2,0.4356841041453114,CYBA;MSN,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Linoleic acid metabolism,321,10,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Lipid and atherosclerosis,321,157,2,0.7887977628068479,CYBA;TNFRSF10B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Long-term depression,321,45,1,0.5676877194269957,GUCY1A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Longevity regulating pathway,321,93,2,0.5140033961183132,CAMK4;IRS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Lysine degradation,321,57,1,0.6544459299495347,COLGALT2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Lysosome,321,119,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Malaria,321,20,1,0.3109516259500964,HGF,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Mannose type O-glycan biosynthesis,321,22,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Maturity onset diabetes of the young,321,23,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Measles,321,100,1,0.8453445522106293,MSN,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Melanogenesis,321,65,1,0.7024061828608902,WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Metabolism of xenobiotics by cytochrome P450,321,26,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Mineral absorption,321,43,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Mismatch repair,321,22,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Mitophagy,321,66,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Mucin type O-glycan biosynthesis,321,24,1,0.3604461448676205,GALNT10,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,N-Glycan biosynthesis,321,46,1,0.5756801309955,ST6GAL1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,NF-kappa B signaling pathway,321,76,2,0.41023800282742073,EDA2R;PRKCQ,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,NOD-like receptor signaling pathway,321,122,3,0.391403029681808,CYBA;NOD1;TXNIP,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Natural killer cell mediated cytotoxicity,321,68,1,0.7186275491727988,TNFRSF10B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Necroptosis,321,97,2,0.536625796945052,STAT4;TNFRSF10B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Neurotrophin signaling pathway,321,105,3,0.30581678263782747,CAMK4;IRS1;NTRK2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Neutrophil extracellular trap formation,321,71,1,0.7339673187825089,CYBA,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Nicotinate and nicotinamide metabolism,321,29,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Non-alcoholic fatty liver disease,321,135,1,0.9197350892569821,IRS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Non-homologous end-joining,321,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Notch signaling pathway,321,50,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Nucleotide excision repair,321,45,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Olfactory transduction,321,31,1,0.43868455641691684,ARRB1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,One carbon pool by folate,321,18,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Oocyte meiosis,321,101,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Other glycan degradation,321,16,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Ovarian steroidogenesis,321,27,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Oxidative phosphorylation,321,109,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,PD-L1 expression and PD-1 checkpoint pathway in cancer,321,71,1,0.7339673187825089,PRKCQ,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,PPAR signaling pathway,321,52,2,0.2489286357421878,FABP5;FABP6,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Pancreatic cancer,321,68,2,0.35776986076762,CDKN1A;CDKN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Pancreatic secretion,321,65,2,0.3376470337915415,RYR2;SLC4A4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Pantothenate and CoA biosynthesis,321,14,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Pathogenic Escherichia coli infection,321,158,1,0.9478771573448874,TNFRSF10B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Pentose and glucuronate interconversions,321,14,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Pentose phosphate pathway,321,25,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Peroxisome,321,75,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Pertussis,321,50,2,0.23524250456808626,IRF8;NOD1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Phagosome,321,103,2,0.5691814677794641,CYBA;HLA-F,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Phosphatidylinositol signaling system,321,83,3,0.19742811215936307,DGKB;INPP5D;PLCD3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Phospholipase D signaling pathway,321,107,3,0.3159165211177327,DGKB;LPAR6;PLPP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Phototransduction,321,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Platelet activation,321,91,2,0.5024226667128403,GUCY1A2;P2RY1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Porphyrin and chlorophyll metabolism,321,21,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Primary bile acid biosynthesis,321,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Primary immunodeficiency,321,17,1,0.2713411850902487,CD8A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Progesterone-mediated oocyte maturation,321,80,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Prolactin signaling pathway,321,62,1,0.6852527206902654,SOCS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Propanoate metabolism,321,31,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Prostate cancer,321,78,1,0.7665952128603474,CDKN1A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Proteasome,321,43,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Protein digestion and absorption,321,51,2,0.24208128335942036,COL6A1;COL6A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Protein export,321,23,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Protein processing in endoplasmic reticulum,321,159,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Proximal tubule bicarbonate reclamation,321,15,1,0.2436812234982104,SLC4A4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Pyrimidine metabolism,321,45,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Pyruvate metabolism,321,36,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,RIG-I-like receptor signaling pathway,321,47,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,RNA degradation,321,74,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,RNA polymerase,321,29,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,RNA transport,321,156,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Rap1 signaling pathway,321,149,4,0.2956207242326032,GRIN1;GRIN2A;HGF;P2RY1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Ras signaling pathway,321,164,5,0.1864540431873586,GNB4;GRIN1;GRIN2A;HGF;NTRK2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Regulation of actin cytoskeleton,321,162,3,0.5770436907508036,ITGA1;ITGB8;MSN,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Relaxin signaling pathway,321,100,2,0.5531123957449597,ARRB1;GNB4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Renal cell carcinoma,321,66,2,0.3443772954361355,CDKN1A;HGF,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Renin-angiotensin system,321,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Retinol metabolism,321,24,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Retrograde endocannabinoid signaling,321,103,1,0.8537913049519301,GNB4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Rheumatoid arthritis,321,50,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Ribosome,321,129,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Ribosome biogenesis in eukaryotes,321,74,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,SNARE interactions in vesicular transport,321,33,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Salivary secretion,321,54,2,0.26263862474967775,ADRB1;GUCY1A2,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Selenocompound metabolism,321,15,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Serotonergic synapse,321,66,2,0.3443772954361355,GNB4;SLC6A4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Signaling pathways regulating pluripotency of stem cells,321,95,1,0.8301720721585556,WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Sphingolipid metabolism,321,43,1,0.5512498901706201,PLPP3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Sphingolipid signaling pathway,321,103,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Spinocerebellar ataxia,321,122,3,0.391403029681808,DAB1;GRIN1;GRIN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Spliceosome,321,132,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Staphylococcus aureus infection,321,24,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Starch and sucrose metabolism,321,21,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Steroid biosynthesis,321,18,1,0.28479064053191566,CYP27B1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Steroid hormone biosynthesis,321,19,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Synaptic vesicle cycle,321,58,2,0.2900517843836676,SLC6A4;SYT1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Systemic lupus erythematosus,321,23,1,0.3484151563832385,GRIN2A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,T cell receptor signaling pathway,321,76,2,0.41023800282742073,CD8A;PRKCQ,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,TGF-beta signaling pathway,321,66,2,0.3443772954361355,BMP8B;CDKN2B,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,TNF signaling pathway,321,92,1,0.8203654970795919,BCL3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Terpenoid backbone biosynthesis,321,20,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Th1 and Th2 cell differentiation,321,57,2,0.2832050856236959,PRKCQ;STAT4,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Th17 cell differentiation,321,69,1,0.723836347137939,PRKCQ,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Thermogenesis,321,200,3,0.7168461561336539,BMP8B;DPF1;SMARCD3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Thyroid cancer,321,33,1,0.45923161523970407,CDKN1A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Thyroid hormone signaling pathway,321,102,1,0.8510281026492847,PLCD3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Thyroid hormone synthesis,321,52,2,0.2489286357421878,SLC26A4;TSHR,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Tight junction,321,137,2,0.7221226229556733,AMOTL1;MSN,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Toll-like receptor signaling pathway,321,66,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Toxoplasmosis,321,84,2,0.46052715502523506,LAMB2;SOCS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Tryptophan metabolism,321,31,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Tuberculosis,321,116,1,0.8853893189341973,CYP27B1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Tyrosine metabolism,321,20,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Ubiquitin mediated proteolysis,321,134,1,0.9182152971052385,SOCS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,VEGF signaling pathway,321,51,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,"Valine, leucine and isoleucine degradation",321,46,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Various types of N-glycan biosynthesis,321,38,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Vasopressin-regulated water reabsorption,321,39,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Vibrio cholerae infection,321,45,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Viral carcinogenesis,321,153,4,0.31222589002065526,CDKN1A;CDKN2A;CDKN2B;HLA-F,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Viral myocarditis,321,36,1,0.48865475962951105,HLA-F,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Vitamin digestion and absorption,321,15,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,Yersinia infection,321,114,1,0.8810130711695529,CD8A,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,alpha-Linolenic acid metabolism,321,12,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,beta-Alanine metabolism,321,21,1,0.32367215321430226,GAD1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,cGMP-PKG signaling pathway,321,119,3,0.3764101650021215,ADRB1;GUCY1A2;IRS1,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,mRNA surveillance pathway,321,87,0,1.0,,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0
+Up in T2D,mTOR signaling pathway,321,131,2,0.6989281445621456,IRS1;WNT3,beta_T2D_vs_ND_pydeseq2_adjusted.csv,1.0

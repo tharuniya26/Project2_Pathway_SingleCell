@@ -1,0 +1,4 @@
+Model,Features,Shared_genes,Accuracy,Balanced_accuracy,ROC_AUC,Accuracy_CI_low,Balanced_accuracy_CI_low,ROC_AUC_CI_low,Accuracy_CI_high,Balanced_accuracy_CI_high,ROC_AUC_CI_high
+Gene features,10674,10674,0.7,0.625,1.0,0.6,0.5,0.9999999999999999,0.9,0.875,1.0
+Biological pathways,277,10674,0.7,0.625,0.8333333333333334,0.6,0.5,0.5,0.9,0.875,1.0
+Matched random gene sets,277,10674,0.7779999999999998,0.7816666666666667,0.9158333333333333,0.6,0.5416666666666667,0.759375,1.0,1.0,1.0

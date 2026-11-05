@@ -1,0 +1,12 @@
+name: pathway-singlecell
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - pip
+  - r-base=4.4
+  - bioconductor-deseq2
+  - r-matrix
+  - pip:
+      - -r requirements.txt
